@@ -1,0 +1,12 @@
+/pkg/
+/Gemfile.lock
+/vendor/
+/spec/fixtures/manifests/*
+/spec/fixtures/modules/*
+!/spec/fixtures/modules/group_memberships
+!/spec/fixtures/modules/group_memberships/*
+/.vagrant/
+/.bundle/
+/coverage/
+/.idea/
+*.iml

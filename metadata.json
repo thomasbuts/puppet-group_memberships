@@ -1,0 +1,11 @@
+{
+  "name": "thomasb-group_memberships",
+  "version": "0.1.0",
+  "author": "Thomas Buts",
+  "summary": "Manage group memberships for users.",
+  "license": "GPLv3",
+  "source": "https://github.com/thomasbuts/puppet-group_memberships",
+  "project_page": "https://github.com/thomasbuts/puppet-group_memberships",
+  "issues_url": "https://github.com/thomasbuts/puppet-group_memberships/issues"
+}
+
